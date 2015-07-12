@@ -1,0 +1,1 @@
+hola este texto se creó en línea de comandos creando un archivo txt llamado saludo
